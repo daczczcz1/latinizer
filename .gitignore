@@ -2,4 +2,5 @@
 /sourcewavs
 /.idea
 *.wav
+!/examples/**/*.wav
 *.mp3
